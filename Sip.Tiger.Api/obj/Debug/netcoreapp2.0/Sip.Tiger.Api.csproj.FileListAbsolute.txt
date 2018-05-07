@@ -1,0 +1,13 @@
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Api\bin\Debug\netcoreapp2.0\Sip.Tiger.Api.deps.json
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Api\bin\Debug\netcoreapp2.0\Sip.Tiger.Api.runtimeconfig.json
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Api\bin\Debug\netcoreapp2.0\Sip.Tiger.Api.runtimeconfig.dev.json
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Api\bin\Debug\netcoreapp2.0\Sip.Tiger.Api.dll
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Api\bin\Debug\netcoreapp2.0\Sip.Tiger.Api.pdb
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Api\bin\Debug\netcoreapp2.0\Sip.Tiger.Management.Business.dll
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Api\bin\Debug\netcoreapp2.0\Sip.Tiger.Management.Business.pdb
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Api\obj\Debug\netcoreapp2.0\Sip.Tiger.Api.csprojResolveAssemblyReference.cache
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Api\obj\Debug\netcoreapp2.0\Sip.Tiger.Api.csproj.CoreCompileInputs.cache
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Api\obj\Debug\netcoreapp2.0\Sip.Tiger.Api.AssemblyInfoInputs.cache
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Api\obj\Debug\netcoreapp2.0\Sip.Tiger.Api.AssemblyInfo.cs
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Api\obj\Debug\netcoreapp2.0\Sip.Tiger.Api.dll
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Api\obj\Debug\netcoreapp2.0\Sip.Tiger.Api.pdb

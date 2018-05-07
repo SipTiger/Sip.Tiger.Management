@@ -1,0 +1,9 @@
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Management.Data.Context\bin\Debug\netcoreapp2.0\Sip.Tiger.Management.Data.Context.deps.json
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Management.Data.Context\bin\Debug\netcoreapp2.0\Sip.Tiger.Management.Data.Context.dll
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Management.Data.Context\bin\Debug\netcoreapp2.0\Sip.Tiger.Management.Data.Context.pdb
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Management.Data.Context\obj\Debug\netcoreapp2.0\Sip.Tiger.Management.Data.Context.csprojResolveAssemblyReference.cache
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Management.Data.Context\obj\Debug\netcoreapp2.0\Sip.Tiger.Management.Data.Context.csproj.CoreCompileInputs.cache
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Management.Data.Context\obj\Debug\netcoreapp2.0\Sip.Tiger.Management.Data.Context.AssemblyInfoInputs.cache
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Management.Data.Context\obj\Debug\netcoreapp2.0\Sip.Tiger.Management.Data.Context.AssemblyInfo.cs
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Management.Data.Context\obj\Debug\netcoreapp2.0\Sip.Tiger.Management.Data.Context.dll
+C:\Lokesh\Project\Sip.Tiger.Management\Sip.Tiger.Management.Data.Context\obj\Debug\netcoreapp2.0\Sip.Tiger.Management.Data.Context.pdb
